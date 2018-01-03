@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cataclysm: Bright Nights</title>
+    <link>https://c74ce35e.ngrok.io/</link>
+    <description>Recent content on Cataclysm: Bright Nights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 12 Dec 2017 20:03:37 -0500</lastBuildDate>
+    
+	<atom:link href="https://c74ce35e.ngrok.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>All About Hugo</title>
+      <link>https://c74ce35e.ngrok.io/post/all-about-hugo/</link>
+      <pubDate>Tue, 12 Dec 2017 20:03:37 -0500</pubDate>
+      
+      <guid>https://c74ce35e.ngrok.io/post/all-about-hugo/</guid>
+      <description>Let&amp;rsquo;s display some content here. How about a little more?</description>
+    </item>
+    
+    <item>
+      <title>Homepage</title>
+      <link>https://c74ce35e.ngrok.io/homepage/</link>
+      <pubDate>Tue, 12 Dec 2017 18:56:00 -0500</pubDate>
+      
+      <guid>https://c74ce35e.ngrok.io/homepage/</guid>
+      <description>hey there</description>
+    </item>
+    
+  </channel>
+</rss>
